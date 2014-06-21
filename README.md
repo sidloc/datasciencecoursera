@@ -1,3 +1,3 @@
 datasciencecoursera
 ===================
-*Test Repo for the class
+** Test Repo for the class
